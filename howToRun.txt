@@ -1,0 +1,6 @@
+1. 
+> node testCrawler.js <url> <response type>
+
+
+2. run tests
+> npm test
